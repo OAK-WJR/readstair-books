@@ -5,77 +5,11 @@
       "cover" : "cover.jpg",
       "files" : [
         {
-          "bytes" : 5190,
-          "path" : "book.json",
-          "sha256" : "63de5855a3e98f4c93824fc9003664216612316663ccd2258855de09849b8080"
-        },
-        {
-          "bytes" : 113811,
-          "path" : "pages/01.jpg",
-          "sha256" : "962167d341eaccecb5bdac3024c4b440da38e5b98bfd5bcbb22c0ee12d276c53"
-        },
-        {
-          "bytes" : 95345,
-          "path" : "pages/02.jpg",
-          "sha256" : "d47f5ee356cf6bb44275313168c83e58db493ab9acb6311654f6e6d40ced0740"
-        },
-        {
-          "bytes" : 103285,
-          "path" : "pages/03.jpg",
-          "sha256" : "53061f20281a40358dbad19f823fc2c00617b3200ebf917065a03ad8206e4fbf"
-        },
-        {
-          "bytes" : 94289,
-          "path" : "pages/04.jpg",
-          "sha256" : "01d4e8a3610385bfc768c4f7ea958222223c9eae90af2a5e2de1a610a178d6ae"
-        },
-        {
-          "bytes" : 105092,
-          "path" : "pages/05.jpg",
-          "sha256" : "b310ebdff51423e8b59f7758a96f7a898668affab1bd83d53b0e5c65ab5dbfd1"
-        },
-        {
-          "bytes" : 97702,
-          "path" : "pages/06.jpg",
-          "sha256" : "bfdb92149aa4d9a2d22ef67cd2a1cbf6095d58ac00fb8692aef2374ccc620b8b"
-        },
-        {
-          "bytes" : 96701,
-          "path" : "pages/07.jpg",
-          "sha256" : "6b5443251fd460670b53ec7eb650039b9393c856285064d6fce348b635d45e86"
-        },
-        {
-          "bytes" : 112198,
-          "path" : "pages/08.jpg",
-          "sha256" : "4734a7c70a5280d90404684328507c0026289799ac9a9fc3e23c53d1d98406d2"
-        },
-        {
-          "bytes" : 108698,
-          "path" : "pages/09.jpg",
-          "sha256" : "fbca72342cc94deb4ce8d303c1b3601ca9053d05174a3d72bba5e403b745f8bd"
-        },
-        {
-          "bytes" : 254465,
-          "path" : "pages/10.jpg",
-          "sha256" : "4160a2995f5a56e4250ef406acc7f3852370f50883164c927a9a0663912419ab"
-        },
-        {
-          "bytes" : 132448,
-          "path" : "audio/en.m4a",
-          "sha256" : "a083ec99aa6f9cff6b2832739b59f7e96cd53f0bf524c98a701631c5d2880829"
-        },
-        {
-          "bytes" : 176681,
-          "path" : "audio/zh-Hans.m4a",
-          "sha256" : "1db8f3e92cc189361c4735a4efe5eb6a23edd328d1df536a8269f326a774065d"
-        },
-        {
-          "bytes" : 149637,
-          "path" : "audio/es.m4a",
-          "sha256" : "9253db832bd3ab80169a22b45c1e12c219484c73f599a89e7147e748600491b5"
+          "bytes" : 1702500,
+          "path" : "gsb-0008-6c11d299.epub",
+          "sha256" : "6c11d2995dc70a47782a93be38cab209f94d29bc290a141100d01553cc31a25c"
         }
       ],
-      "fits4" : true,
       "grade" : "K",
       "id" : "gsb-0008",
       "kind" : "pages",
@@ -88,6 +22,7 @@
         "name" : "CC BY 3.0",
         "url" : "https://creativecommons.org/licenses/by/3.0/"
       },
+      "minAge" : 4,
       "path" : "books/gsb-0008/",
       "title" : {
         "en" : "What are you doing?",
@@ -100,77 +35,11 @@
       "cover" : "cover.jpg",
       "files" : [
         {
-          "bytes" : 6698,
-          "path" : "book.json",
-          "sha256" : "9172785a2e70a026479e94b1c63bcb97fe6356e56d6ac29a0b9dc14740517a14"
-        },
-        {
-          "bytes" : 237526,
-          "path" : "pages/01.jpg",
-          "sha256" : "9a10fc4e2461517924f9350495435bdaf9686767b897b6c1d8e7b1a5ec3cc1b5"
-        },
-        {
-          "bytes" : 233530,
-          "path" : "pages/02.jpg",
-          "sha256" : "833075f79c0acc672637c7ce0e78aa2167b3277ae415c6b495c908966a99bc3c"
-        },
-        {
-          "bytes" : 230619,
-          "path" : "pages/03.jpg",
-          "sha256" : "2bbe1f1df8db2869374598c085fef0e46517d3f8a1970208124d6690801ee6ea"
-        },
-        {
-          "bytes" : 261578,
-          "path" : "pages/04.jpg",
-          "sha256" : "e8f136f240bb8899a299326c5b2109acada00d7f0dd1c88448a87fb9ea2bc519"
-        },
-        {
-          "bytes" : 204181,
-          "path" : "pages/05.jpg",
-          "sha256" : "0bb2ed8ea1860e86d9cc92d2767348c014637e5d1173c3ba09069b54d13913d1"
-        },
-        {
-          "bytes" : 297589,
-          "path" : "pages/06.jpg",
-          "sha256" : "f0e92a54db9bc178abaf5b7a532f730a34a6dba3573c26930717980421c917d3"
-        },
-        {
-          "bytes" : 218323,
-          "path" : "pages/07.jpg",
-          "sha256" : "aec04dd001271ea8245fe63f48317e3da4deea97fbde530cf8432d95b5503ec7"
-        },
-        {
-          "bytes" : 270722,
-          "path" : "pages/08.jpg",
-          "sha256" : "fb5a1e45d91c3cfd633d86bedc4e6794dd53b7668ce695bd7e078a1dd2496665"
-        },
-        {
-          "bytes" : 218165,
-          "path" : "pages/09.jpg",
-          "sha256" : "0d27701f50989665104a01769e41442facd0e1a74bf467655cd37c087d4efffd"
-        },
-        {
-          "bytes" : 275764,
-          "path" : "pages/10.jpg",
-          "sha256" : "9adf2bfb3df0f0c59016e12c5ad9e6bec31404ad76129cabc9bfa53b2fe56afd"
-        },
-        {
-          "bytes" : 204679,
-          "path" : "audio/en.m4a",
-          "sha256" : "070a3af9e236539748170b5bb26f7112fcf7634a840c76b615a992f55abb503d"
-        },
-        {
-          "bytes" : 265059,
-          "path" : "audio/zh-Hans.m4a",
-          "sha256" : "889a4ddb98cdf598f7cbc84dda9bdaebeb1ebabf3fb613fe6a4fc5144ba9a68e"
-        },
-        {
-          "bytes" : 184944,
-          "path" : "audio/es.m4a",
-          "sha256" : "e8bb3ebba0b540878cb11c2ac389200cf2a084c56928cadad2963dba5fe3efa3"
+          "bytes" : 3174625,
+          "path" : "gsb-0087-e8f34470.epub",
+          "sha256" : "e8f34470f96529818319a50bb610310e0600ef8cfde1378b7569b75e3025ab86"
         }
       ],
-      "fits4" : true,
       "grade" : "K",
       "id" : "gsb-0087",
       "kind" : "pages",
@@ -183,6 +52,7 @@
         "name" : "CC BY 3.0",
         "url" : "https://creativecommons.org/licenses/by/3.0/"
       },
+      "minAge" : 4,
       "path" : "books/gsb-0087/",
       "title" : {
         "en" : "I like to read!",
@@ -195,77 +65,11 @@
       "cover" : "cover.jpg",
       "files" : [
         {
-          "bytes" : 8683,
-          "path" : "book.json",
-          "sha256" : "d49bfd3a5b0d42b3dbfb121cdab231253c4a6e46c7311373e362ed1963b60f5a"
-        },
-        {
-          "bytes" : 367182,
-          "path" : "pages/01.jpg",
-          "sha256" : "e6323c9238a1bca205e6a801d0be43939b0f9958413990e560f5f7a35ee7f9fb"
-        },
-        {
-          "bytes" : 285713,
-          "path" : "pages/02.jpg",
-          "sha256" : "1ae4857bf9b957d9af280c01066ed4af13f9075a84f4cfd391aac55dca6e7c0b"
-        },
-        {
-          "bytes" : 360769,
-          "path" : "pages/03.jpg",
-          "sha256" : "18938a683bc47cc90968a63e693884052016e27411d28d0285f6d65a6a297258"
-        },
-        {
-          "bytes" : 288759,
-          "path" : "pages/04.jpg",
-          "sha256" : "a0e3f26f4563f842cbea10883d1affec22b090b57b5dde850b1ae914f14ab859"
-        },
-        {
-          "bytes" : 339795,
-          "path" : "pages/05.jpg",
-          "sha256" : "6c0f19b14dfe16ce406c27f703407a093648957c4dbd3cebae2d622d2adefbfd"
-        },
-        {
-          "bytes" : 377123,
-          "path" : "pages/06.jpg",
-          "sha256" : "9871d64bf565fa1ec4ee527e9014382ef29298dbcd0375a6ffb738f3cf72e840"
-        },
-        {
-          "bytes" : 302519,
-          "path" : "pages/07.jpg",
-          "sha256" : "6e1bdf0b4c5af08ec27727bfe8033add21cb346778d215e58b5ff43921a49d81"
-        },
-        {
-          "bytes" : 388120,
-          "path" : "pages/08.jpg",
-          "sha256" : "e12ef91343b1953efb8fcf9c943f340cc4dabaca6930f84c88fbf006714bba1f"
-        },
-        {
-          "bytes" : 339724,
-          "path" : "pages/09.jpg",
-          "sha256" : "ec1a06d99d65528dd434d21b425b2645384213542ae4bcca07538530cbbfa742"
-        },
-        {
-          "bytes" : 271290,
-          "path" : "pages/10.jpg",
-          "sha256" : "e2b84d24a657da6a8a9301560c21c53b8fa37f8499ee330fcf9537c99209b300"
-        },
-        {
-          "bytes" : 299562,
-          "path" : "audio/en.m4a",
-          "sha256" : "cc5c9dd7d1bca40982871622aac2cff2a3fcdc6b47998708388208ba18fd3ccc"
-        },
-        {
-          "bytes" : 366809,
-          "path" : "audio/zh-Hans.m4a",
-          "sha256" : "e6471a7e20900beba9096a29e02415e8827a2a3f99723eedf6b22f327a842592"
-        },
-        {
-          "bytes" : 282592,
-          "path" : "audio/es.m4a",
-          "sha256" : "ac0d4a76480ed59c4f0d570c88fb3eec69a08362cc07783d8f640f9bd7593172"
+          "bytes" : 4346580,
+          "path" : "gsb-0327-f46dc686.epub",
+          "sha256" : "f46dc6865b075f4abc7e1a58fb88f2f5359dffbd0c7f6b79459c1634297eebd0"
         }
       ],
-      "fits4" : true,
       "grade" : "K",
       "id" : "gsb-0327",
       "kind" : "pages",
@@ -278,6 +82,7 @@
         "name" : "CC BY 3.0",
         "url" : "https://creativecommons.org/licenses/by/3.0/"
       },
+      "minAge" : 4,
       "path" : "books/gsb-0327/",
       "title" : {
         "en" : "Counting animals",
@@ -290,77 +95,11 @@
       "cover" : "cover.jpg",
       "files" : [
         {
-          "bytes" : 4969,
-          "path" : "book.json",
-          "sha256" : "65de80c04cdd8a2702ec0c61ee62809f19331d75c1f1bfd98b4f26c70a8290c7"
-        },
-        {
-          "bytes" : 205055,
-          "path" : "pages/01.jpg",
-          "sha256" : "d719b045ba2a0fd8f8cc7594b4d6710f206adde8c049cef845269e886b47aa5c"
-        },
-        {
-          "bytes" : 291408,
-          "path" : "pages/02.jpg",
-          "sha256" : "a59aee9771dd56bf6f8e90f59abbdd7cd48f153b01d3772f38e448dff4861b39"
-        },
-        {
-          "bytes" : 326154,
-          "path" : "pages/03.jpg",
-          "sha256" : "4589073a396b5ca4084d23517ebffff95704d2059258f23d5444ca0caab3d58c"
-        },
-        {
-          "bytes" : 288138,
-          "path" : "pages/04.jpg",
-          "sha256" : "4875b311d596a797c73641c29421622da4ca0a0885c9e6ae91e9651883129c7a"
-        },
-        {
-          "bytes" : 301495,
-          "path" : "pages/05.jpg",
-          "sha256" : "56c70d07405f8c00ca2a7d40bae78482c4f91e1a686be5669728323433f5fb30"
-        },
-        {
-          "bytes" : 268426,
-          "path" : "pages/06.jpg",
-          "sha256" : "1d9a52563c7939f42bde97b9ad79da7809a2066008af2684f4a3c2ac0736aa41"
-        },
-        {
-          "bytes" : 207826,
-          "path" : "pages/07.jpg",
-          "sha256" : "c7b319adb22446c4273a920642b3dfda2582c8fbaad4ad8b5ded3daf7c4cfe9f"
-        },
-        {
-          "bytes" : 268856,
-          "path" : "pages/08.jpg",
-          "sha256" : "9a6b0e677dd08b4f5a98f240b33a95503baef34a7a38992a702db3a70e4c6e22"
-        },
-        {
-          "bytes" : 319271,
-          "path" : "pages/09.jpg",
-          "sha256" : "6d708964fce01ffe0120d94e9604c57975a29b1537f0ffbb0251b45810a037af"
-        },
-        {
-          "bytes" : 311050,
-          "path" : "pages/10.jpg",
-          "sha256" : "67b16255690c66b8d0c8fcd8fb7b475b87845a43d7998ea6d7c5b42231778616"
-        },
-        {
-          "bytes" : 184062,
-          "path" : "audio/en.m4a",
-          "sha256" : "7b47c44f1ec5774fb6b373275be3b672f451533978d2e5c8dc64ed2a73a0944d"
-        },
-        {
-          "bytes" : 225972,
-          "path" : "audio/zh-Hans.m4a",
-          "sha256" : "9befcf1117cb724d12d94290a5fca2fdd2087e0fdc11ec7b3a6f00e4d6db125a"
-        },
-        {
-          "bytes" : 163285,
-          "path" : "audio/es.m4a",
-          "sha256" : "3b732850ac56ca28a5243a1690687d1d153e48883d37151cd65b88a95eb00a50"
+          "bytes" : 3423760,
+          "path" : "gsb-0302-da0c6da3.epub",
+          "sha256" : "da0c6da3490c04a671d6da8a5f60ecb41c81bddc6e9b5f307942d7e4f11b3684"
         }
       ],
-      "fits4" : true,
       "grade" : "K",
       "id" : "gsb-0302",
       "kind" : "pages",
@@ -373,6 +112,7 @@
         "name" : "CC BY 3.0",
         "url" : "https://creativecommons.org/licenses/by/3.0/"
       },
+      "minAge" : 4,
       "path" : "books/gsb-0302/",
       "title" : {
         "en" : "Fire",
@@ -385,62 +125,11 @@
       "cover" : "cover.jpg",
       "files" : [
         {
-          "bytes" : 5450,
-          "path" : "book.json",
-          "sha256" : "d6add589ae2c7a420c7026c65943d77de543b1f437a30c3eb269bd5c96462c4b"
-        },
-        {
-          "bytes" : 123258,
-          "path" : "pages/01.jpg",
-          "sha256" : "09fc5a7bef8f6d5c2536b83bc78d7b648b2b5c91cc3c29da7fa1093c17f1c7d6"
-        },
-        {
-          "bytes" : 128448,
-          "path" : "pages/02.jpg",
-          "sha256" : "3a10a95b324cc6f554796dd262bc9e68b253c05d179f2777942c2af8cfef4bbb"
-        },
-        {
-          "bytes" : 114276,
-          "path" : "pages/03.jpg",
-          "sha256" : "99f82cf4c705042986b370120d61b420e1e4525ef9e3df2ed383e19758c04ae4"
-        },
-        {
-          "bytes" : 155286,
-          "path" : "pages/04.jpg",
-          "sha256" : "0691706b440a123ed769c0cbacc2b570387b5d6322746a7d40d6f1e5b8a9685b"
-        },
-        {
-          "bytes" : 221298,
-          "path" : "pages/05.jpg",
-          "sha256" : "a7a1d2ba3ffcc5c6d35c94939a6089fabba45487312f6dcb04c86a5c24a313d0"
-        },
-        {
-          "bytes" : 91860,
-          "path" : "pages/06.jpg",
-          "sha256" : "5899403bd3afa237b05dfb9124f5ba0da147e7689855446fb29129dab2401a70"
-        },
-        {
-          "bytes" : 257735,
-          "path" : "pages/07.jpg",
-          "sha256" : "0183321e3b92ceabd924040ec94811759daacc9682ffc83f66d96b2d0b2b576c"
-        },
-        {
-          "bytes" : 184325,
-          "path" : "audio/en.m4a",
-          "sha256" : "8cf4728cd0c5dff140fa98ac5e881e6481de63b9dddc390b187a0d44c6d91749"
-        },
-        {
-          "bytes" : 243178,
-          "path" : "audio/zh-Hans.m4a",
-          "sha256" : "e43382ba253d21a910f3298653838d187b4d91633ae726edef642b8be9db1446"
-        },
-        {
-          "bytes" : 175286,
-          "path" : "audio/es.m4a",
-          "sha256" : "38758812364d826623ec7b6fcc16089b37ac05b57eb8d60c359bdfd88484c305"
+          "bytes" : 1755863,
+          "path" : "gsb-0156-6e2a13ee.epub",
+          "sha256" : "6e2a13ee5505f240b0e68d590fb9cedac9f1b801192fab8d1ee43ae57640755b"
         }
       ],
-      "fits4" : true,
       "grade" : "K",
       "id" : "gsb-0156",
       "kind" : "pages",
@@ -453,6 +142,7 @@
         "name" : "CC BY 3.0",
         "url" : "https://creativecommons.org/licenses/by/3.0/"
       },
+      "minAge" : 4,
       "path" : "books/gsb-0156/",
       "title" : {
         "en" : "The hungry crocodile",
